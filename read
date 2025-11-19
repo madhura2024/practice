@@ -1,1 +1,2 @@
-this is the comparison code
+This project analyzes whether the Crypto Fear & Greed Index has any relationship with the daily profit and loss (PnL) of Hyperliquid traders. I cleaned and merged two datasets — historical trade data and market sentiment — then explored patterns using grouping, correlation analysis, lagged sentiment, and visualizations.
+The goal was to see if market mood (fear or greed) influences trading performance or predicts future PnL.
